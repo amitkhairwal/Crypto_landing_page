@@ -18,4 +18,4 @@
 - Windows 100% scaling on 1080p resolution
 
 # Links
-[Demo](https://crypto-app-007.netlify.app/)
+[Demo](https://amitkhairwal.github.io/Crypto_landing_page/)
